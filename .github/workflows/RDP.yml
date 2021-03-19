@@ -1,4 +1,4 @@
-name: CI
+name: jecem-konter
 
 on: workflow_dispatch
 
